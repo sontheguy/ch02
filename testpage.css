@@ -1,0 +1,10 @@
+body {
+    margin: 0 0;
+    font-family: Comic Sans, sans-serif;
+    font-size: 300%;
+    width: 500px;
+    margin: 0 auto;
+    padding: 9em;
+    float: left;
+    border: 5px solid goldenrod;
+}
